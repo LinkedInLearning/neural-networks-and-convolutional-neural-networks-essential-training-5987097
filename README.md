@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Neural Networks and Convolutional Neural Networks Essential Training
+This is the repository for the LinkedIn Learning course `Neural Networks and Convolutional Neural Networks Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
