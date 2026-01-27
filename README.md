@@ -5,6 +5,9 @@ This is the repository for the LinkedIn Learning course `Neural Networks and Con
 
 ## Course Description
 
+<p>Deepen your understanding of neural networks and convolutional neural networks (CNNs) with this comprehensive course. Instructor Jonathan Fernandes shows how to build and train models in Keras and PyTorch using datasets like MNIST and CIFAR‑10 for image classification. Apply activation functions, backpropagation, pooling techniques, and optimizers to strengthen model performance. Gain practical experience with essential datasets and pretrained models that support modern computer vision, including techniques such as image augmentation and transfer learning.</p>
+<p>Designed for machine learning engineers with a solid grasp of Python and introductory AI concepts, this course balances theory with hands‑on implementation. Tune in and explore why different architectures work well for particular challenges and develop the skills needed to design, implement, and evaluate neural networks across a range of applications.</p>
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -32,17 +35,16 @@ To resolve this issue:
 
 ## Instructor
 
-Instructor name
+Jonathan Fernandes
 
-Instructor description
+Expert in Generative AI and Large Language Models
+        
 
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jonathan-fernandes?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/neural-networks-and-convolutional-neural-networks-essential-training-28587075/explore-neural-networks?u=104
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQE8umADRa-gpg/learning-public-crop_675_1200/B56ZrcW0MjK8AY-/0/1764633560384?e=2147483647&v=beta&t=en6KlhDYdeHKm8c3KgGz4OIkNZ4nN5Yum84hPG_3uZM
 
