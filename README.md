@@ -5,7 +5,7 @@ This is the repository for the LinkedIn Learning course `Neural Networks and Con
 
 ## Course Description
 
-<p>Deepen your understanding of neural networks and convolutional neural networks (CNNs) with this comprehensive course. Instructor Jonathan Fernandes shows how to build and train models in Keras and PyTorch using datasets like MNIST and CIFAR‑10 for image classification. Apply activation functions, backpropagation, pooling techniques, and optimizers to strengthen model performance. Gain practical experience with essential datasets and pretrained models that support modern computer vision, including techniques such as image augmentation and transfer learning.</p>
+<p>Deepen your understanding of neural networks and convolutional neural networks (CNNs) with this comprehensive course. Instructor Jonathan Fernandes shows how to build and train models in PyTorch using datasets like MNIST and CIFAR‑10 for image classification. Apply activation functions, backpropagation, pooling techniques, and optimizers to strengthen model performance. Gain practical experience with essential datasets and pretrained models that support modern computer vision, including techniques such as image augmentation and transfer learning.</p>
 <p>Designed for machine learning engineers with a solid grasp of Python and introductory AI concepts, this course balances theory with hands‑on implementation. Tune in and explore why different architectures work well for particular challenges and develop the skills needed to design, implement, and evaluate neural networks across a range of applications.</p>
 
 _See the readme file in the main branch for updated instructions and information._
