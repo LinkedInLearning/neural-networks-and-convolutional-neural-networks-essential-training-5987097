@@ -10,7 +10,7 @@ This is the repository for the LinkedIn Learning course `Neural Networks and Con
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
-You can access the code for this course directly by [following this link:] (https://colab.research.google.com/drive/1pJNvpjRT672w6Wp5sZJnC56oMhqmch2k?usp=sharing)
+You can access the code for this course in Colab directly by [following this link:](https://colab.research.google.com/drive/1pJNvpjRT672w6Wp5sZJnC56oMhqmch2k?usp=sharing)
 ## Instructor
 
 Jonathan Fernandes
